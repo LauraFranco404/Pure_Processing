@@ -1,12 +1,12 @@
 # Pure Processing
 
-A compact interactive system that transforms Spotify track data into an
-audiovisual experience.\
-Each song in the dataset includes characteristics such as **energy,
-tempo, danceability, valence, loudness**, and detailed metadata (artist, album, release date,
-genre, etc.).
+## Nestor Ortiz & Laura Franco
 
-## How It Works
+A compact interactive system that transforms Spotify track data into an audiovisual experience.
+
+Each song in the dataset includes characteristics such as **energy, tempo, danceability, valence, loudness**, and detailed metadata (artist, album, release date, genre, etc.).
+
+### How It Works
 
 -   The program reads one record (one song) at a time from the dataset.
 -   The genre (`playlist_genre`) determines which `.wav` file is
@@ -19,7 +19,7 @@ genre, etc.).
     All genre audio assets (e.g., `afrobeats.wav`, `classical.wav`,
     `rock.wav`, etc.) are included in the project.
 
-## Features
+### Features
 
 -   Real‑time visualization of musical attributes.
 -   Display of key metadata: genre, track name, artist(s), album,
@@ -27,7 +27,7 @@ genre, etc.).
 -   Audio playback with **Play / Pause / Reset** controls.
 -   Progress slider synchronized with the currently playing audio.
 
-## Audio Files
+### Audio Files
 
 The project includes one `.wav` file per genre present in the dataset,
 such as:
@@ -38,7 +38,7 @@ such as:
     j-pop.wav, k-pop.wav, korean.wav, latin.wav, metal.wav,
     other.wav, pop.wav, punk.wav, r&b.wav, rock.wav, turkish.wav
 
-## Execution
+### Execution
 
 1. Clone the repository.
 2. Open the sketch in Processing.
