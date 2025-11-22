@@ -1,0 +1,14 @@
+rock.wav filter=lfs diff=lfs merge=lfs -text
+afrobeats.wav filter=lfs diff=lfs merge=lfs -text
+gaming.wav filter=lfs diff=lfs merge=lfs -text
+rb.wav filter=lfs diff=lfs merge=lfs -text
+j-pop.wav filter=lfs diff=lfs merge=lfs -text
+k-pop.wav filter=lfs diff=lfs merge=lfs -text
+latin.wav filter=lfs diff=lfs merge=lfs -text
+other.wav filter=lfs diff=lfs merge=lfs -text
+pop.wav filter=lfs diff=lfs merge=lfs -text
+arabic.wav filter=lfs diff=lfs merge=lfs -text
+electronic.wav filter=lfs diff=lfs merge=lfs -text
+metal.wav filter=lfs diff=lfs merge=lfs -text
+hip-hop.wav filter=lfs diff=lfs merge=lfs -text
+punk.wav filter=lfs diff=lfs merge=lfs -text
